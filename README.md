@@ -11,7 +11,7 @@ Uma interface moderna e responsiva para gerenciar extensões de navegador, permi
 - **Tema Claro/Escuro:** Alterne entre temas claro e escuro para melhor conforto visual.
 - **Animações Suaves:** Utilização do GSAP para transições e feedback visual.
 
-## 🚀 Como Usar Localmente
+## 🚀 Como Utilizar
 
 1. **Acesse o site:**
 [Browser Extension Manager UI](https://twh0xy.github.io/browser-extension-manager-ui/)
