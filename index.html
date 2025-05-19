@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt_BR" itemscope itemtype="https://schema.org/WebPage">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gerenciador de Extensões de Navegador</title>
+    <meta name="author" content="Frontend Mentor & twh0xy &copy; 2025" />
+    <link rel="stylesheet" href="./public/assets/css/styling.css" type="text/css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"></script>
+</head>
+<body style="background-color: hsl(206, 73%, 96%);">
+    <div class="gen-c-h">
+        <header class="gen-h">
+            <a href="./index.html" target="_self" class="link-t-p"><h1>Extensions</h1></a>
+            <button class="change-theme">
+                <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-moon"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" /></svg>
+                <!--<svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-sun"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M12 12m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0" /><path d="M3 12h1m8 -9v1m8 8h1m-9 8v1m-6.4 -15.4l.7 .7m12.1 -.7l-.7 .7m0 11.4l.7 .7m-12.1 -.7l-.7 .7" /></svg>-->
+            </button>
+        </header>
+    </div>
+
+    <div class="gen-c-ta">
+        <h2>Extensions List</h2>
+        <div class="gen-c-tao">
+            <button class="gen-tao-bt active">All</button>
+            <button class="gen-tao-bt">Active</button>
+            <button class="gen-tao-bt">Inactive</button>
+        </div>
+    </div>
+
+    <div class="gen-c-lext" id="extensions-list">
+    </div>
+
+    <script src="./public/assets/scripts/script.js" type="text/javascript" defer></script>
+</body>
+</html>

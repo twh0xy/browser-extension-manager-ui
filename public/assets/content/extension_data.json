@@ -1,0 +1,64 @@
+{
+    "extensions": [
+        {
+            "name": "DevLens",
+            "icon_color": "#C0D8C0",
+            "summary": "Quickly inspect page layouts and visualize element boundaries."
+        },
+        {
+            "name": "StyleSpy",
+            "icon_color": "#A8D6E5",
+            "summary": "Instantly analyze and copy CSS from any webpage element."
+        },
+        {
+            "name": "SpeedBoost",
+            "icon_color": "#FDCFD2",
+            "summary": "Optimizes browser resource usage to accelerate page loading."
+        },
+        {
+            "name": "JSONWizard",
+            "icon_color": "#F1BEEB",
+            "summary": "Formats, validates, and prettifies JSON responses in-browser."
+        },
+        {
+            "name": "TabMaster Pro",
+            "icon_color": "#CEB9F1",
+            "summary": "Organizes browser tabs into groups and sessions."
+        },
+        {
+            "name": "ViewportBuddy",
+            "icon_color": "#A4C3F2",
+            "summary": "Simulates various screen resolutions directly within the browser."
+        },
+        {
+            "name": "Markup Notes",
+            "icon_color": "#8ED9F2",
+            "summary": "Enables annotation and notes directly onto webpages for collaborative debugging."
+        },
+        {
+            "name": "GridGuides",
+            "icon_color": "#B8B8FE",
+            "summary": "Overlay customizable grids and alignment guides on any webpage."
+        },
+        {
+            "name": "Palette Picker",
+            "icon_color": "#98F5E2",
+            "summary": "Instantly extracts color palettes from any webpage."
+        },
+        {
+            "name": "LinkChecker",
+            "icon_color": "#FFD8BE",
+            "summary": "Scans and highlights broken links on any page."
+        },
+        {
+            "name": "DOM Snapshot",
+            "icon_color": "#8EECF4",
+            "summary": "Capture and export DOM structures quickly."
+        },
+        {
+            "name": "ConsolePlus",
+            "icon_color": "#BAFBC1",
+            "summary": "Enhanced developer console with advanced filtering and logging."
+        }
+    ]
+}
